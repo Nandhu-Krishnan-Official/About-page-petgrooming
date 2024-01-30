@@ -1,0 +1,28 @@
+.feature-icon img{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    text-align: center;
+}
+.feature-heading{
+    font-size: 20px;
+}
+
+.card{
+    margin: auto;
+}
+.para{
+    padding: 3.5rem;
+}
+
+#content{
+    text-align: center;
+}
+
+.sub-heading{
+    text-align: center;
+}
+
+.footer{
+    padding-top: 10px;
+}
